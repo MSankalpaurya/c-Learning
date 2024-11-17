@@ -1,0 +1,38 @@
+1)What is Volatile?
+2)Write a Program for Palindrome?
+3)Write a Program  to check Endianess using Union?
+4)Create  a Macro for clearing the Bit Position M?
+5)Difference between Compiler and Cross Compiler?
+6)Difference between Enum and Macro?
+7)Difference between User Space and Kernel Space?
+8)What is Wild Pointer?
+9)What is Dangling Pointer?
+10)What is Stack Over Flow?
+11)Advantages and Disadvantages of Enum?
+12)Explain Structure Padding?
+13)Difference between Structure and Union?
+14)About Bit Fields in Structure?
+15)Can Bit Fields used in Data Structure?
+16)Size Of Structure,if Structure Contains Bit Fields?
+17)Difference between Semaphore and Mutex?
+18)About grep command?
+19)What is Interrupt?Who gets Interrupt?
+20)Explain I2C Start Condition?
+21)Explain Working of SPI?
+22)About LCD Interfacing?
+23)write the difference between macro and
+      Function?
+24)Difference between fun(char*) and fun(char arr[]) ?
+25)Difference between char *ptr="nexsemi"
+ and char arr[]="nexsemi"
+26)Difference between *++p and ++*p ?
+27)Declare the following
+       a)pointer to the integer
+       b)pointer to the array
+       c)array of pointers
+       d)pointer to the array
+       e)pointer to the function
+28)Write a Program for Reverse the nodes
+      Of a single linked list?
+29)Find the size of integer without  using size of operator?
+30)Write a program to delete the repeated characters from the strings?

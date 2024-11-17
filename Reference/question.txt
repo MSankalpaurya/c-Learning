@@ -1,0 +1,14 @@
+
+                    #************** question **************#
+
+1. Write a simple function in C++ that swaps the values of two integers using reference parameters.
+2. How do you pass a variable by reference to a function in C++? Provide a basic example.
+3. Modify the following function to use reference parameters instead of pointers:
+void updateValue(int *ptr) {
+    *ptr = 100;
+}
+
+4. Write a function that takes a vector of integers by reference and appends a given integer to the vector
+5. Explain how references work with const in C++. Provide an example where passing a const reference is beneficial.
+6. What are the implications of returning a reference from a function in C++? Provide an example.
+7. Describe the concept of reference collapsing in C++ and provide an example where it is relevant.

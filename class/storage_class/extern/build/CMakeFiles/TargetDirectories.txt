@@ -1,0 +1,3 @@
+/home/jangoo/sankalp/class/storage_class/extern/build/CMakeFiles/my_executable.dir
+/home/jangoo/sankalp/class/storage_class/extern/build/CMakeFiles/edit_cache.dir
+/home/jangoo/sankalp/class/storage_class/extern/build/CMakeFiles/rebuild_cache.dir
