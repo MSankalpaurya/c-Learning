@@ -26,7 +26,7 @@ public:
 
     // 4. Copy constructor
     Example(const Example &obj) {
-        data = obj.data;  // Copying value directly
+        this->data = obj.data;  // Copying value directly
         cout << "Copy constructor called, data = " << data << endl;
     }
 

@@ -1,0 +1,59 @@
+-------------------------
+|         Database       |
+|   ----------------     |
+|   |    Table     |     |
+|   |  |---------| |     |
+|   |  |   Data  | |     |
+|   |  |         | |     |
+|   |  |---------| |     |
+|   |--------------|     |
+|                        |
+|------------------------|
+          RDBMS
+
+Data TYPES:
+data types of a colummn defines what value the column can store in table
+
+defines while creating tables in database
+
+Data types mainly classified into thee categories + most used
+
+1. string : char , varchar
+2. numeric : int, float, bool
+3. date and time : date, datetime
+
+Primary Key (PK) :
+   a primary key is a unique column we set in a table easily identify and locate data in query
+   A table can have one primary key, which shuld be unique and not NULL
+
+Foreign Keys(FK) :
+
+   A foreign key is a column used to connect two or more table
+   A table can have many number of foreign keys, can contain duplicate and NULL value
+
+
+Constraints:
+   Constrainets are used to sepecify rules for data in a table
+   this ensure the accuracy and reliabilty of the data in the table
+   Constraints can be specified when the table is created with the CREATE TABLE statements, or
+   after the table is created with the ALERT TABLE statement
+
+   Syntex:
+
+   CREATE TABLE table_name (
+    column1 datatype constraint,
+    column2 datatype constraint,
+    column3 datatype constraint,
+   );
+
+   commonly used constraint:
+
+   --> Not NULL - ensure that column cannot have a NULL value
+   --> UNIQUE - ensure that all value in a column are different
+   --> Primary Key - a combination of not NULL and unique
+   --> Foreign KEY: prevent the actions that would destroy links between tables
+   --> CHECK: ensure that the value in a column satisfied a specific condition
+   --> Default: Set a default value for column if no value is specified
+   --> Create index :used to create and retrive data from database very quickly
+
+

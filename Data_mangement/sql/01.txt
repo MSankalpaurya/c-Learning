@@ -1,0 +1,19 @@
+what is sql?
+
+it is structured query language (SQL) is a programming language used to interact with database.
+
+like ---->
+School is database
+class --> table
+student information is -> data
+
+Use of sql
+C--> Create
+R-->Read/retreive
+U-->Update
+D-->Delete
+
+Database is a system that allow user to store and organise data
+
+1. Relational database (SQL)
+2. Non-relational database(NoSQL)
