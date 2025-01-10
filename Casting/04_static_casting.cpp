@@ -31,7 +31,7 @@ public:
 
 // Understanding the "is-a" Relationship in Inheritance
 /**
- *    n object-oriented programming, when a class Derived inherits 
+ *    In object-oriented programming, when a class Derived inherits 
  *    from another class Base, it creates an "is-a" relationship 
  *    between the two classes:
  *    Derived is-a Base: Every Derived object inherently contains 
